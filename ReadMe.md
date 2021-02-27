@@ -12,7 +12,7 @@
 
 🙋🏼‍♀️:I love attending Hackathons, meetups & tech events.
 
-🌱:I’m currently learning
+🌱:I’m currently learning FLUTTER
 
 💌 :How to reach me: wiembborchani@gmail.com
 
