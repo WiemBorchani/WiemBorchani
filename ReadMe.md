@@ -5,10 +5,15 @@
 ## ⚡️Talking about Personal Stuffs:
 
 👩‍💻 :i am passionate self-taught Computer science engineering student from Tunisia.🇹🇳
+
 ✨:I am Junior Data Scientist | ML & AI enthusiast
+
 🛸:I love exploring new tech stack and building cool stuffs.
+
 🙋🏼‍♀️:I love attending Hackathons, meetups & tech events.
+
 🌱:I’m currently learning
+
 💌 :How to reach me: wiembborchani@gmail.com
 
 
