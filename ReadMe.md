@@ -14,7 +14,11 @@
 
 🙋🏼‍♀️: I love attending Hackathons, meetups & tech events.
 
-🌱: I’m currently learning FLUTTER.
+🌱: Challenges I participated in :
+
+     -#30daysofflutter
+     
+     -#100daysofcode
 
 
 
