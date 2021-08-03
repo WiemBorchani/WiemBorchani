@@ -16,9 +16,13 @@
 
 🌱: Challenges I participated in :
 
-     -#30daysofflutter
+     -#30daysofML
      
      -#100daysofcode
+     
+     -#30daysofflutter
+     
+     
 
 
 
