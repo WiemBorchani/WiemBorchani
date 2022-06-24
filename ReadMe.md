@@ -1,4 +1,4 @@
-<h1> Hi There, I am Wiem Borchani .<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
+<h1> Hi There, I am Wiem Borchani </h1>
 </h1>
 
 <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500px">
