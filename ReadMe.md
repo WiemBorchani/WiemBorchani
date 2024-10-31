@@ -3,13 +3,13 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFobnptMWZ3MnF3N3N6eWRrbzl2bHFkeTNjMDcyMnJ3OWxtcnM1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EYn2rXOuDQ0aqeWA7A/giphy.gif" width="500px">
 
-Currently, 🤖 I'm a machine learning engineer with hands-on experience in Deep Learning, Computer Vision, and ML DevOps. 🚀 I also enjoy the creative side, crafting solutions using Large Language Models (LLMs) and Transformers. 🤯 As a dedicated professional, I strive to make complex AI innovations easy to understand. With clear communication and strong teamwork, I'm committed to driving advancements that make a positive impact in the field. Let's innovate together! 🌐💡
+Currently, 🤖 I’m an AI engineer at Khooa with hands-on experience in Deep Learning, Computer Vision, and ML DevOps. 🚀 I also enjoy the creative side, crafting solutions using Large Language Models (LLMs) and Transformers. 🤯 As a dedicated professional, I strive to make complex AI innovations easy to understand. With clear communication and strong teamwork, I’m committed to driving advancements that make a positive impact in the field. Let’s innovate together! 🌐💡
 
 ## ⚡️Talking about Personal Stuffs:
 
 👩‍💻: I am a passionate, self-taught individual from Tunisia.🇹🇳
 
-✨: I am Junior Data Scientist | ML & AI enthusiast
+✨: I am a Women Techmakers Ambassador
 
 🛸: I love exploring new tech stack and building cool stuffs.
 
